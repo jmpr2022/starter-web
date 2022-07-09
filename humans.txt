@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Jhon Mark Ramos		j.ramos3394@gmail.com	@jmramos3394
+	
 # THANKS
 
     <name>
